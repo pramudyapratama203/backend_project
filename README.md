@@ -38,7 +38,7 @@ This is a simple backend project built using **Node.js (Express)** and **MySQL**
    ```env
    DB_HOST=localhost
    DB_USER=root
-   DB_PASSWORD=Bintang123#
+   DB_PASSWORD=yourpassword
    DB_NAME=yourdatabase
    JWT_SECRET=your_jwt_secret
    ```
