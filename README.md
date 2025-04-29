@@ -45,7 +45,7 @@ This is a simple backend project built using **Node.js (Express)** and **MySQL**
 
 4. Run the server:
    ```bash
-   node index.js
+   node app.js
    ```
 
 5. The server will be available at:
